@@ -1,0 +1,210 @@
+
+
+
+= 3.2.3 =
+* Updated Show/Hide settings
+* Fix: Style-7 Background-color on hover issue
+
+= 3.2.2 =
+* Font size settings for Call to Action - Style 2, 3, 3 Extend.
+* Fix: Facebook Pixel integration for Shortcodes
+
+= 3.2.1 =
+* Updated Share feature variable {url} on loop pages
+* Fix: Shortcode click action, 
+
+= 3.2 =
+* prefilled message at page level
+* Style-1 customize text and background color
+* Updated User Interface
+
+= 3.1 =
+* Updated: Full Width Style-1, Style-8 for mobile.
+* Add Animation Delay, Animation Iteration
+* New Animations - heartBeat, flip
+* Shortcode style-5 new attributes - s5_img_url, s5_line_2
+* Fix: Group ID Page level settings
+* RTL Compatible for Styles.
+* Updated Admin User Interface 
+
+= 3.0.4 =
+* Style-1, Style-8 Full width option for Mobile, Desktop
+* bug fixes
+
+= 3.0.3 =  
+* Updated Animations
+* Fixed: {url} variable at WooCommerce Pre-filled message.
+
+= 3.0 =
+* Call to Action for Style-2, 3, 7.
+* New 'Style-7 Extend'.
+* Style-3 is now Style-3, 'Style-3 Extend'.
+* Improved Style-7, Style-8.
+* Animations
+* New Variable for prefilled message. [url] - replaces with full url including parameters.
+* Updated User Interface
+
+= 2.12.1 =
+* Fix: Style-4 img position issue.
+* Updated: admin page
+
+= 2.12 =
+* Localization - compatibile with WPML, Polylang.
+    - WhatsApp Number
+    - Call to Action
+    - Pre-filled Message
+
+= 2.11 =
+* User Interface: Desktop, Mobile settings
+* Updated: Style-3, extended Settings
+* Updated: Style-4 Emebed default svg image, Image size, position
+* Updated: Style-8
+
+= 2.10.2 =
+* performance improvement
+* Fixed minor issues
+
+= 2.10.1 = 
+* Updated: Position to Place
+
+= 2.10 = 
+* New: position for mobile (now can set different positions for mobile, desktop)
+* Improved User Interface, Performance
+
+* Admin side changes
+    - Enable/disable Group, Share feature options swifted to "Customize" -> "Other Settings"
+    - "Customize Styles" menu renamed as "Customize"
+
+= 2.9.2 =
+* Improved User Interface, Performance
+* Updated: Change values at page level settings
+
+= 2.9.1 =
+* Option to set delete settings when plugin uninstalls
+* Updated: WooCommerce related features
+* Updated: if number blank
+* Added a fallback call_to_action for some styles
+
+= 2.9 =
+
+* Introduction WooCommerce related features
+    - 'Pre-filled message' for single product pages
+    with variables {product}, {price}, {regular_price}, {sku}
+    - 'Call to Action' for single product pages
+* Admin notice - if WhatsApp number not added. 
+* Updated Style-4
+
+= 2.8.5 =
+* Style-2, Style-3 Improved.
+* Updated: Show/Hide Settings
+* Updated: Hide based on device (Mobile, Desktop)
+* Updated: Customize Styles
+* Updated: Style-5
+* Updated: Style-7
+* Fix: '&' symbol at prefilled message
+* Fix: Style-1 if no Call to Action
+
+= 2.8.4 =
+* Updated: WhatsApp number at page level settings
+* Updated: Display Styles after WhatsApp Number is added.
+* Updated: Shortcode number attribute
+
+= 2.8.3 =
+* Fix: Cache issue - Hide based on device - now detects based on screen size
+
+= 2.8.2 =
+* Display Styles after WhatsApp Number is added.
+* Default sytles changed.
+
+= 2.8.1 =
+* Fix: Color picker conflict
+
+= 2.8 =
+* Hide based on device - now detects based on screen size
+* Facebook Pixel
+* Google Analytics values udpated
+
+= 2.7 =
+* Fix: position to place suffix
+* Default image for style-99
+
+= 2.6 =
+* Pre-filled message:
+    - Now can add multiple lines.
+    - new variable {site}
+* Fix: Shortcode Style-5 click, full width issue
+* style-8 more customize options
+
+= 2.5 =
+* Share feature: Web version
+* Fix: number filed issues
+
+= 2.4 =
+* Detect device based on screen size for link generate
+* Fix: + sign issues for ios
+* FB analytics using js sdk deprecated
+
+= 2.3 =
+* Analytics for gtm
+* Fix: font conflict issue
+* improved styles
+
+= 2.2 =
+* Simplified admin pages
+* Performance improvement
+
+= 2.1 =
+* New interface - docs
+
+= 2.0 =
+* New interface
+
+= 1.7.2 =
+* Style-8 shortcode issue fixed
+
+= 1.7.1 =
+* Style-8 simplified
+
+= 1.7 =
+* Improved plugin performance
+* Style-4 simplified
+* Style-1 - default theme button
+* Fixed some issues
+
+= 1.6 =
+* Google Analytics
+* Facebook Analytics
+
+= silent release =
+* App First option to fix cache issue
+* shortcodes new attribute
+
+= 1.5 =
+* Initial message - {{url}} placeholder
+* new style - Add own Image
+* Hide Style based on Device in shotcodes 
+
+= 1.4 =
+* New style-9, Green Square
+* Supports Analytics - using google tag manager
+* animations - alpha version
+* style-3 can choose .svg or .png image versions
+* style-4 image size reduced, ~ 2kb
+* performance improvement.
+
+= 1.3 =
+* can add pre-filled text
+* style-1 - can change button text.
+* setting page link added in plugins page
+* show / hide is now changed to hide on - based on page types
+
+= 1.2 =
+* improved: code on how to detect mobile device.
+* sticky save button in options page - easy to save.
+* option page - Documentation links.
+
+= 1.1 =
+* convert plugin to bit of OOP style
+
+= 1.0 =
+* Initial release.
