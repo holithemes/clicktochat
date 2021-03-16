@@ -1,4 +1,4 @@
-# Click-to-Chat
+# Click to Chat
 
 Plugin public: Pages, Wiki, Discussion, Issues, Ideas, ..
 
